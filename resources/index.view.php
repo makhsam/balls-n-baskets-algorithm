@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Schedule</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./resources/style.css">
 </head>
 
 <body>    

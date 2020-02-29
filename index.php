@@ -1,9 +1,9 @@
 <?php
 
-require "Color.php";
-require "Ball.php";
-require "Basket.php";
-require "functions.php";
+require "./models/Color.php";
+require "./models/Ball.php";
+require "./models/Basket.php";
+require "./helpers/functions.php";
 
 
 
@@ -100,4 +100,4 @@ foreach ($balls as $ball) {
 console_log("Max balls count: {$maxBallsCount}");
 
 
-require './index.view.php';
+require './resources/index.view.php';
